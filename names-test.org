@@ -1,0 +1,5 @@
+| Name | Age | City    |
+|------+-----+---------|
+| John |  30 | New York|
+| Jane |  25 | London  |
+| Mark |  35 | Paris   |
